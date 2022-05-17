@@ -1,0 +1,15 @@
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.csproj.AssemblyReference.cache
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfoInputs.cache
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.AssemblyInfo.cs
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\bin\Debug\net6.0\Ex8.exe
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\bin\Debug\net6.0\Ex8.deps.json
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\bin\Debug\net6.0\Ex8.runtimeconfig.json
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\bin\Debug\net6.0\Ex8.dll
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\bin\Debug\net6.0\Ex8.pdb
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.dll
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\refint\Ex8.dll
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.pdb
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\Ex8.genruntimeconfig.cache
+C:\Users\ricardo.ikegame\Projetos 2022\src\Desafiados\Desafiado_Variaveis_Exercicios\Ex8\Ex8\obj\Debug\net6.0\ref\Ex8.dll
